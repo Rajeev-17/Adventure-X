@@ -12,7 +12,7 @@ I was still learning the basics of **HTML, CSS, and JavaScript**, so the project
 
 ## 🌐 Live Demo
 
-**[Visit Adventure X](YOUR_DEPLOYED_WEBSITE_LINK)**
+**[Visit Adventure X](https://adventuree-x.netlify.app/)**
 
 ## 🚀 About the Project
 
